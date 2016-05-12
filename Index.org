@@ -21,3 +21,5 @@ This repository contents all the Technical Stuff done by me in topic wise and al
 [[https://github.com/kraghupathi/raghu-wiki/blob/master/kvm.org][Kernal-based Virtual Machine(KVM)]]
 
 [[https://github.com/kraghupathi/raghu-wiki/blob/master/dhcp.org][DHCP-Server]]
+
+[[https://github.com/kraghupathi/raghu-wiki/blob/master/openvz.org][OpenVZ]]
